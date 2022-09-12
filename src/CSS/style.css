@@ -1,0 +1,24 @@
+.btn1{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-radius: 9px;
+}
+.btn2{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-radius: 9px;
+}
+.text1{
+    color: blue;
+    font-weight: bolder;
+}
+.text2{
+    color: red;
+    
+}
